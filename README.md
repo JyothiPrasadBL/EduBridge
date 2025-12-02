@@ -6,7 +6,7 @@
 
 A comprehensive full-stack web application designed to enhance education in rural areas for 11th and 12th standard students across Science, Commerce, and Arts streams.
 
-**🔗 Repository**: [https://github.com/Pavankumar0411mg/eduBridge](https://github.com/Pavankumar0411mg/eduBridge)
+**🔗 Repository**: (https://github.com/JyothiPrasadBL/EduBridge)
 
 ## Features
 
@@ -200,3 +200,4 @@ For technical support or feature requests, please refer to the project documenta
 ## License
 
 This project is developed for educational purposes to enhance rural education accessibility.
+
