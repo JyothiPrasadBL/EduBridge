@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "frontend/src/**": {
+      "runtime": "@vercel/static"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/frontend/build/index.html"
+    }
+  ]
+}
