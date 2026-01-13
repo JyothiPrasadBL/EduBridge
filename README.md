@@ -200,4 +200,7 @@ For technical support or feature requests, please refer to the project documenta
 
 This project is developed for educational purposes to enhance rural education accessibility.
 
+![image alt](Landing_Page_eduBridge.jpeg)
+
+
 
